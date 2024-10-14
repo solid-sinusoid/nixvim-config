@@ -36,8 +36,8 @@
     ./plug/treesitter/treesitter-textobjects.nix
     ./plug/treesitter/treesitter.nix
 
-    ./plug/ui/alpha.nix
-    #./plug/ui/btw.nix
+    # ./plug/ui/alpha.nix
+    ./plug/ui/btw.nix
     ./plug/ui/bufferline.nix
     ./plug/ui/indent-blankline.nix
     ./plug/ui/noice.nix
@@ -53,11 +53,12 @@
     ./plug/utils/grapple.nix
     ./plug/utils/hardtime.nix
     ./plug/utils/illuminate.nix
+    # ./plug/utils/surround.nix
     # ./plug/utils/markview.nix
     #./plug/utils/mini.nix
     ./plug/utils/nvim-autopairs.nix
     # ./plug/utils/obsidian.nix
-    # ./plug/utils/oil.nix
+    ./plug/utils/oil.nix
     #./plug/utils/ufo.nix
     ./plug/utils/undotree.nix
     ./plug/utils/whichkey.nix

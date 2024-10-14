@@ -88,7 +88,7 @@
 
     {
       mode = "n";
-      key = "<leader><tab>d";
+      key = "<leader>x";
       action = "<cmd>tabclose<cr>";
       options = {
         silent = true;
